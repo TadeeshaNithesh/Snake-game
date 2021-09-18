@@ -19,9 +19,9 @@ Use W , S , A , D to move the snake.
 
 ⭕ you can run it using CMD or Terminal also.
 
-    python3 -m pip install pygame==2.0.0
+    🎡python3 -m pip install pygame==2.0.0
     
-    python snake.py
+    🎡python snake.py
     
     that is the code
     
