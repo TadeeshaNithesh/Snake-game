@@ -7,7 +7,7 @@ This is completely created using Python
 Use W , S , A , D to move the snake.
 
 # How to use
-⭕ copy the snake.py here and save as snake.py.cpp
+⭕ copy the snake.py here and save as snake.py
 
 ⭕ type in the terminal or CMD 
 
